@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Emirhan Aktaş</h1>
 <h3 align="center">Doğuş Üniversitesi Robotik ve Yapay Zeka öğrencisiyim. Yeni teknolojiler keşfetmeyi ve kullanmayı seviyorum.</h3>
 
-- 🔭 Şu anda üzerinde çalışıyorum: **Ürün Yorumlarıyla Duygu Analizi**
+- 🔭 Şu anda **Ürün Yorumlarıyla Duygu Analizi** üzerinde çalışıyorum
 
 - 👨‍💻 Projelerime burdan ulaşabilirsiniz: [https://github.com/emirhanakts](https://github.com/emirhanakts)
 
